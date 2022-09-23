@@ -1,3 +1,3 @@
 # Liquid_Artillery
 
-![Alt text](Image design_poster.jpg)
+![Alt text](design_poster.jpg)
