@@ -1,3 +1,3 @@
 # Liquid_Artillery
 
-![My Image](design_poster.jpg.jpg)
+![Design Poster](design_poster.jpg.jpg)
