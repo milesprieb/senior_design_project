@@ -2,4 +2,4 @@
 
 ![Alt text](design_poster.jpg)
 
-<video src="C:\Users\miles\Documents\Liquid_Artillery\face detection4.avi"></video>
+<video src="\face detection4.avi"></video>
